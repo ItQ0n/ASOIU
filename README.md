@@ -11,4 +11,4 @@
 
 | № | Тема | Ссылка |
 |---|------|--------|
-| 1 | Homework 1 | [Открыть](https://github.com/ItQ0n/ASOIU/HW1.git) |
+| 1 | Homework 1 | [Открыть](https://github.com/ItQ0n/ASOIU-HW1.git) |
